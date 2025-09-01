@@ -1,4 +1,4 @@
-PROJECT_NAME = "university-ds-a"
+PROJECT_NAME = "university-fn-prog"
 
 #Local settings
 BINARY_NAME = ${PROJECT_NAME}
